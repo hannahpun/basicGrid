@@ -1,0 +1,46 @@
+// -------------------------------------
+//   Color
+// -------------------------------------
+$white: #fff;
+$gray: #D9D9D9;
+$gray-dark: #515151;
+$black: #000;
+$violet: #976EFF;
+$purple: #5C3CAF;
+$orange: #F5A623;
+$cyan: #50E3C2;
+
+
+
+// -------------------------------------
+//   Font
+// -------------------------------------
+@font-face { 
+	font-family: Roboto; 
+	src: url('fonts/Roboto-Medium.ttf'); 
+	font-weight: normal;
+};
+@font-face { 
+	font-family: Roboto; 
+	src: url('fonts/Roboto-Bold.ttf'); 
+	font-weight: bold;
+};
+@font-face { 
+	font-family: Roboto; 
+	src: url('fonts/Roboto-Black.ttf'); 
+	font-weight: 700;
+};
+
+
+// -------------------------------------
+//   Typography
+// -------------------------------------
+$b-fontSize-h1: em(50);
+$b-fontSize-h2: em(40);
+$b-fontSize-h3: em(25);
+$b-fontSize-h4: em(22);
+$b-fontSize-h5: em(20);
+$b-fontSize-h6: em(18);
+$b-fontSize-m: em(16);
+$b-fontSize: em(14);
+

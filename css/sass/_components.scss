@@ -1,0 +1,11 @@
+div[class^="col-sm"]{
+	// border: 1px solid #ddd;
+}
+.box{
+	background-color: #ccc;
+	min-height: 100px;
+	margin-bottom: $grid-gutter-width;
+}
+.container{
+	background-color: #eee;
+}
